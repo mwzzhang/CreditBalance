@@ -1,3 +1,16 @@
-Displays credit balance in EDMC.
+CreditBalance
+
+"Kill your speed, not your credit balance"
+
+Displays credit balance and rebuy in EDMC.
 
 Wrote this because flipping through Ship Info Panel gets old really fast.
+
+Alpha quality, no optimization currently whatsoever.
+
+Future Plan:
+* Display Combat related voucher balance (e.g. combat bond amount)
+* Display Exploration related voucher balance (e.g. exobiology)
+* Display loan (doubt my account will have one in the near future so can't test it)
+* Display powerplay related credit voucher (if any. Don't actually do PowerPlay so can't test it either)
+* Configuration for toggling information display off
